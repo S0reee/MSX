@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-04-08 03:49:34 +0000",
       "minecraft:river": "2025-04-07 06:01:55 +0000",
       "minecraft:swamp": "2025-04-07 06:06:35 +0000",
       "minecraft:meadow": "2025-04-07 02:47:11 +0000",
@@ -579,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-08 03:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-08 03:35:39 +0000"
@@ -630,6 +637,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-08 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-08 03:41:16 +0000"
     },
     "done": true
   },
@@ -952,6 +965,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-08 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-08 03:48:54 +0000"
     },
     "done": true
   },
