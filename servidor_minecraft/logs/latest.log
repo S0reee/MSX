@@ -54,3 +54,6 @@
 [03:36:45] [Server thread/INFO]: S0reee has made the advancement [Not Today, Thank You]
 [03:37:00] [Server thread/INFO]: S0reee has made the advancement [Voluntary Exile]
 [03:37:09] [Server thread/INFO]: S0reee was shot by Pillager
+[04:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=65, z=-1474} class_2338{x=-35, y=63, z=-1474}
+[04:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=65, z=-1474} class_2338{x=-35, y=63, z=-1474}
+[04:00:35] [Server thread/INFO]: S0reee has made the advancement [Suit Up]
