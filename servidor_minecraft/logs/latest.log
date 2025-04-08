@@ -57,3 +57,16 @@
 [04:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=65, z=-1474} class_2338{x=-35, y=63, z=-1474}
 [04:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=65, z=-1474} class_2338{x=-35, y=63, z=-1474}
 [04:00:35] [Server thread/INFO]: S0reee has made the advancement [Suit Up]
+[04:11:35] [Server thread/INFO]: Stopping the server
+[04:11:35] [Server thread/INFO]: Stopping server
+[04:11:35] [Server thread/INFO]: Saving players
+[04:11:35] [Server thread/INFO]: S0reee lost connection: Server closed
+[04:11:35] [Server thread/INFO]: S0reee left the game
+[04:11:35] [Server thread/INFO]: Saving worlds
+[04:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
