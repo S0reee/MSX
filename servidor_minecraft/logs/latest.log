@@ -1,61 +1,51 @@
-[05:44:55] [main/INFO]: Loading Minecraft 1.21.2 with Fabric Loader 0.16.9
-[05:44:55] [main/INFO]: Loading 4 mods:
+[03:25:01] [main/INFO]: Loading Minecraft 1.21.2 with Fabric Loader 0.16.9
+[03:25:02] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.2
-[05:44:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[05:45:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:45:07] [main/INFO]: Loaded 1337 recipes
-[05:45:07] [main/INFO]: Loaded 1448 advancements
-[05:45:07] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[05:45:07] [Server thread/INFO]: Loading properties
-[05:45:07] [Server thread/INFO]: Default game type: SURVIVAL
-[05:45:07] [Server thread/INFO]: Generating keypair
-[05:45:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:45:07] [Server thread/INFO]: Using epoll channel type
-[05:45:07] [Server thread/INFO]: Preparing level "world"
-[05:45:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:17] [Server thread/INFO]: Time elapsed: 8879 ms
-[05:45:17] [Server thread/INFO]: Done (9.401s)! For help, type "help"
-[05:45:29] [User Authenticator #1/INFO]: UUID of player S0reee is 27ea5243-811d-4b74-bced-8cf40a2a89dd
-[05:45:30] [Server thread/INFO]: S0reee[/100.81.184.48:62084] logged in with entity id 26 at (-137.68528975090916, 71.0, 90.71765528177679)
-[05:45:30] [Server thread/INFO]: S0reee joined the game
-[05:45:34] [Server thread/INFO]: [Not Secure] <S0reee> asd
-[05:48:42] [Server thread/INFO]: S0reee has made the advancement [Sweet Dreams]
-[06:01:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-8, y=65, z=6} class_2338{x=-8, y=62, z=6}
-[06:02:08] [Server thread/WARN]: S0reee moved too quickly! -0.10571655963292415,2.024424088213692,-9.847169228576039
-[06:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
-[06:02:13] [Server thread/WARN]: S0reee moved too quickly! 9.463082793078918,-0.2538907259487644,-3.610496669668848
-[06:04:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=71, z=-87} class_2338{x=0, y=70, z=-89}
-[06:12:30] [Server thread/INFO]: S0reee lost connection: Disconnected
-[06:12:30] [Server thread/INFO]: S0reee left the game
-[06:12:35] [Server thread/INFO]: Stopping the server
-[06:12:35] [Server thread/INFO]: Stopping server
-[06:12:35] [Server thread/INFO]: Saving players
-[06:12:35] [Server thread/INFO]: Saving worlds
-[06:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:25:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:25:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:25:24] [main/INFO]: Loaded 1337 recipes
+[03:25:24] [main/INFO]: Loaded 1448 advancements
+[03:25:24] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[03:25:24] [Server thread/INFO]: Loading properties
+[03:25:24] [Server thread/INFO]: Default game type: SURVIVAL
+[03:25:24] [Server thread/INFO]: Generating keypair
+[03:25:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:25:25] [Server thread/INFO]: Using epoll channel type
+[03:25:25] [Server thread/INFO]: Preparing level "world"
+[03:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:39] [Server thread/INFO]: Time elapsed: 13358 ms
+[03:25:39] [Server thread/INFO]: Done (14.154s)! For help, type "help"
+[03:26:34] [User Authenticator #1/INFO]: UUID of player S0reee is 27ea5243-811d-4b74-bced-8cf40a2a89dd
+[03:26:37] [Server thread/INFO]: S0reee[/100.81.184.48:62459] logged in with entity id 13 at (-45.28905478560084, 63.0, -1452.5501646784853)
+[03:26:37] [Server thread/INFO]: S0reee joined the game
+[03:30:47] [Server thread/INFO]: S0reee has made the advancement [Monster Hunter]
