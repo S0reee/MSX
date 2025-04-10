@@ -9,9 +9,11 @@
     "criteria": {
       "minecraft:flower_forest": "2025-04-08 03:49:34 +0000",
       "minecraft:beach": "2025-04-10 05:10:33 +0000",
+      "minecraft:forest": "2025-04-10 05:46:09 +0000",
       "minecraft:river": "2025-04-07 06:01:55 +0000",
       "minecraft:swamp": "2025-04-07 06:06:35 +0000",
       "minecraft:meadow": "2025-04-07 02:47:11 +0000",
+      "minecraft:birch_forest": "2025-04-10 05:46:54 +0000",
       "minecraft:plains": "2025-04-03 07:01:46 +0000"
     },
     "done": false
@@ -1209,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-10 05:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 05:10:25 +0000"
@@ -1224,6 +1232,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-10 05:31:52 +0000"
     },
     "done": true
   },
@@ -1389,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-10 05:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-10 05:10:20 +0000"
@@ -1404,6 +1424,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 05:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-10 05:32:17 +0000"
     },
     "done": true
   },
@@ -1428,6 +1454,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-10 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 05:31:52 +0000"
     },
     "done": true
   },
@@ -1458,6 +1490,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-10 05:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-10 05:32:17 +0000"
     },
     "done": true
   },
