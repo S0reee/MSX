@@ -62,3 +62,16 @@
 [21:08:03] [Server thread/INFO]: Villager class_1646['Cleric'/21588, l='ServerLevel[world]', x=82.47, y=64.00, z=-2133.28] died, message: 'Cleric was slain by Zombie'
 [21:08:05] [Server thread/INFO]: Villager class_1646['Villager'/21583, l='ServerLevel[world]', x=81.31, y=64.00, z=-2133.14] died, message: 'Villager was slain by Zombie Villager'
 [21:08:06] [Server thread/INFO]: Villager class_1646['Villager'/21685, l='ServerLevel[world]', x=75.15, y=67.00, z=-2117.40] died, message: 'Villager was slain by Zombie'
+[21:12:51] [Server thread/INFO]: Stopping the server
+[21:12:51] [Server thread/INFO]: Stopping server
+[21:12:51] [Server thread/INFO]: Saving players
+[21:12:51] [Server thread/INFO]: S0reee lost connection: Server closed
+[21:12:51] [Server thread/INFO]: S0reee left the game
+[21:12:51] [Server thread/INFO]: Saving worlds
+[21:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
